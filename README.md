@@ -73,3 +73,12 @@ ds_assistant/
 
 ---
 
+## 👨‍💻 Author
+
+**Shubham Kumar**
+AI Developer | Creative Technologist
+
+---
+
+⭐ If you find this project interesting, consider giving it a star on GitHub.
+
