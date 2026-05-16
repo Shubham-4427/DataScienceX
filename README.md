@@ -73,9 +73,3 @@ ds_assistant/
 
 ---
 
-## 🏆 Built For
-
-**ABB EngineeredX 2.0** — Problem Statement #8  
-*Design and evaluate data science language models that can adapt to different data science models*
-
-The core idea: an LLM-powered layer that understands a user's intent and routes to the right ML workflow automatically — making data science accessible to domain experts, not just data scientists.
